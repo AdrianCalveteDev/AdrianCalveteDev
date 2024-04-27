@@ -1,10 +1,9 @@
-### Hi there 👋
-# Adrián Calvete
+### ¡Hola a todos! 👋
+# Yo soy Adrián Calvete
 
 <img src="img/adri.jpeg" alt="Imagen de portada" width="150"/>
-![ImagenDePortada](img/adri.jpeg)
 
-## IT Project Manager / Web App Developer
+## IT Project Manager / Web App Developer 💬
 En el sector IT desde hace 7 años, trabajando en distintos proyectos terminé como Project Manager en proyectos de software, en ese punto decidí reforzar mis conocmientos técnicos estudiando desarrollo web en la universidad, lo que conllevó en un aumento por mi interés en la parte técnica e inició una transición irreversible de la gestión del proyecto a la parte más técnica.
 
 ## Características 
