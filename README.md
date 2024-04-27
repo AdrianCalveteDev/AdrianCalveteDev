@@ -1,6 +1,7 @@
 ### Hi there 👋
 # Adrián Calvete
 
+<img src="img/adri.jpeg" alt="Imagen de portada" width="150"/>
 ![ImagenDePortada](img/adri.jpeg)
 
 ## IT Project Manager / Web App Developer
