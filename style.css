@@ -1,3 +1,4 @@
-.imagen-portada {
-  border-radius: 25px;
+img[alt=Imagen de Portada] { 
+  width: 150px; 
 }
+
