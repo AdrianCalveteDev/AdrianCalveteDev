@@ -1,7 +1,11 @@
-### ¡Hola a todos! 👋
-# Yo soy Adrián Calvete
 
-<img src="img/adri.jpeg" alt="Imagen de portada" width="150"/>
+<p align="center"><b>¡Hola a todos! 👋 Mi nombre es Adrián Calvete</b></p>
+
+<div align="center">  
+  <img src="img/adri.jpeg" alt="Imagen de portada" width="150"/>
+</div>
+
+<hr>
 
 ## 💬 IT Project Manager / Web App Developer
 En el sector IT desde hace 7 años, trabajando en distintos proyectos terminé como Project Manager en proyectos de software, en ese punto decidí reforzar mis conocmientos técnicos estudiando desarrollo web en la universidad, lo que conllevó en un aumento por mi interés en la parte técnica e inició una transición irreversible de la gestión del proyecto a la parte más técnica.
@@ -10,7 +14,9 @@ Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollo
 
 - 🌍 Madrid - Spain
 - 🧠 Estudiantes DAW en Universidad Alfonso X
-- 📫 Puedes contactar conmigo en: 
+- 📫 Puedes contactar conmigo en:
+
+<hr>
 
 ## 💻 Stack Tecnólogico
 <img src="img/html.svg" alt="HTML 5"/> <img src="img/css.svg" alt="CSS 3"/> <br>
