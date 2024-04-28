@@ -3,7 +3,7 @@
 
 <img src="img/adri.jpeg" alt="Imagen de portada" width="150"/>
 
-## IT Project Manager / Web App Developer 💬
+## 💬 IT Project Manager / Web App Developer
 En el sector IT desde hace 7 años, trabajando en distintos proyectos terminé como Project Manager en proyectos de software, en ese punto decidí reforzar mis conocmientos técnicos estudiando desarrollo web en la universidad, lo que conllevó en un aumento por mi interés en la parte técnica e inició una transición irreversible de la gestión del proyecto a la parte más técnica.
 
 Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollos web y de aplicaciones móviles y actualmente estudiando Desarrollo de aplicaciones web. Comprometido con el aprendizaje continuo y el crecmiento profesional
@@ -12,7 +12,7 @@ Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollo
 - 🧠 Estudiantes DAW en Universidad Alfonso X
 - 📫 Puedes contactar conmigo en: 
 
-## Stack Tecnólogico
+## 💻 Stack Tecnólogico
 <img src="img/html.svg" alt="HTML 5"/> <img src="img/css.svg" alt="CSS 3"/> <br>
 <img src="img/java.svg" alt="java"/> <img src="img/python.svg" alt="python"/><br>
 <img src="img/mariadb.svg" alt="mariaDB"/> <img src="img/mysql.svg" alt="MySQL"/> <br>
