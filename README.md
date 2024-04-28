@@ -13,7 +13,10 @@ Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollo
 - 📫 Puedes contactar conmigo en: 
 
 ## Stack Tecnólogico
-
+<img src="img/html.svg" alt="HTML 5"/> <img src="img/css.svg" alt="CSS 3"/> <br>
+<img src="img/java.svg" alt="java"/> <img src="img/python.svg" alt="python"/><br>
+<img src="img/mariadb.svg" alt="mariaDB"/> <img src="img/mysql.svg" alt="MySQL"/> <br>
+<img src="img/linux.svg" alt="Linux"/> <img src="img/photoshop.svg" alt="photoshop"/>
 
 ## Uso
 Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
