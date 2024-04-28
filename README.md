@@ -10,7 +10,7 @@
 ## 💬 IT Project Manager / Web App Developer
 En el sector IT desde hace 7 años, trabajando en distintos proyectos terminé como Project Manager en proyectos de software, en ese punto decidí reforzar mis conocmientos técnicos estudiando desarrollo web en la universidad, lo que conllevó en un aumento por mi interés en la parte técnica e inició una transición irreversible de la gestión del proyecto a la parte más técnica.
 
-Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollos web y de aplicaciones móviles y actualmente estudiando Desarrollo de aplicaciones web. Comprometido con el aprendizaje continuo y el crecmiento profesional
+Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollos web y de aplicaciones móviles y actualmente me encuentro estudiando Desarrollo de aplicaciones web. Comprometido con el aprendizaje continuo y el crecmiento profesional.
 
 - 🌍 Madrid - Spain
 - 🧠 Estudiantes DAW en Universidad Alfonso X
