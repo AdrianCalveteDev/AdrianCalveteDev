@@ -1,4 +1,5 @@
-# Single One Page Proyecto Intermodular 1DAW ![Imagen de Portada](https://example.com/cover_image)
+# Single One Page Proyecto Intermodular 1DAW 
+![Imagen de Portada](img/la-sante-logo-oro.png)
 
 ## Descripción
 Este proyecto es una single one page cuyo tema trata sobre un centro de especialidades, el centro es real y se atienden especialidades de diferentes ambitos:
@@ -376,3 +377,13 @@ Una vez descargado, puedes navegar por el sitio web abriendo el archivo `index.h
     </footer>
 </body>
 </html>
+```
+
+## Contribución
+Si deseas contribuir con mejoras o correcciones a este sitio web, ¡te animamos a hacerlo! Puedes enviar un pull request con tus cambios propuestos.
+
+> "La gente no sabe lo que quiere hasta que se lo mostramos." - Steve Jobs
+
+
+---
+Hecho con ❤️ por Adrián Calvete
