@@ -14,7 +14,7 @@ Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollo
 
 - 🌍 Madrid - Spain
 - 🧠 Estudiantes DAW en Universidad Alfonso X
-- 📫 Puedes contactar conmigo en:
+- 📫 Puedes contactar conmigo en: adriancalvetedev@gmail.com
 
 <hr>
 
