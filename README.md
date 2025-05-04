@@ -13,7 +13,7 @@ En el sector IT desde hace 7 años, trabajando en distintos proyectos terminé c
 Como desarrollador tengo un pérfil junior con algo de experiencia en desarrollos web y de aplicaciones móviles y actualmente me encuentro estudiando Desarrollo de aplicaciones web. Comprometido con el aprendizaje continuo y el crecmiento profesional.
 
 - 🌍 Madrid - Spain
-- 🧠 Estudiantes DAW en Universidad Alfonso X
+- 🧠 Estudiante DAW en Universidad Alfonso X
 - 📫 Puedes contactar conmigo en: adriancalvetedev@gmail.com
 
 <hr>
